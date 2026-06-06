@@ -1,5 +1,8 @@
 # Tapo Rainmeter Panel
 
+<img width="260" height="241" alt="image" src="https://github.com/user-attachments/assets/c0180a24-1460-4c6f-9a88-73778f878255" />
+
+
 A simple Windows/Rainmeter desktop control panel for TP-Link Tapo P100 smart plugs.
 
 It uses Python to toggle plugs on/off and Rainmeter to display clickable desktop buttons with ON/OFF status.
