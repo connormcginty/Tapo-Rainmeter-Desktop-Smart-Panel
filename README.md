@@ -38,9 +38,9 @@ In your router settings, reserve a fixed IP for each Tapo plug.
 Example:
 
 ```text
-Office Fan  → 192.168.1.201
-Office LEDs → 192.168.1.202
-Office Lamp → 192.168.1.203
+Office Fan  → 192.168.1.XXX
+Office LEDs → 192.168.1.XXX
+Office Lamp → 192.168.1.XXX
 ```
 
 This stops the plugs changing IP address later.
