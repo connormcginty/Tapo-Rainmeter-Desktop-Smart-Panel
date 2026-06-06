@@ -1,0 +1,9 @@
+{
+  "email": "your-tapo-email@example.com",
+  "password": "your-tapo-password",
+  "devices": {
+    "officefan": "192.168.1.201",
+    "officeleds": "192.168.1.202",
+    "officelamp": "192.168.1.204"
+  }
+}
